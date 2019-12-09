@@ -17,7 +17,8 @@ My solutions to Advent of Code 2019
 
 ## Day 8: python
 
-## Day 9: python After messing for an hour getting day 9 right, I decided on
+## Day 9: python
+After messing for an hour getting day 9 right, I decided on
 another rewrite of the intcode emulator. The obvious source of confusion was the
 handling of operands and their modes for every single opcode. Now they are
 handled once, by one function, before being passed on. This makes separate
