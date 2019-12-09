@@ -5,9 +5,9 @@ My solutions to Advent of Code 2019
 
 ## Day 2: python
 
-## Day 3: python
+## Day 3: C
 
-## Day 4: C
+## Day 4: python
 
 ## Day 5: python
 
