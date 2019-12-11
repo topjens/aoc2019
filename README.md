@@ -33,7 +33,8 @@ As a bonus a rudimentary assembler written in *flex/Bison* is included.
 ## Day 10: python
 **Needs to be cleaned up!**
 
-## Day 11: python On the surface easy modification of day 9. Write a small class
+## Day 11: python
+On the surface easy modification of day 9. Write a small class
 to deal with the robot, storing all the visited spaces with their `(x,y)` and
 `color` in a `dict`. The IN opcode is rewritten to read from a function of the
 robot class that gives the `color` at the current `(x,y)`, which takes its
