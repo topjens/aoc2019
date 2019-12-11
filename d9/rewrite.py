@@ -123,4 +123,4 @@ class intcode:
 
 
 if __name__ == '__main__':
-    intcode('./test').execute()
+    intcode('./input').execute()
